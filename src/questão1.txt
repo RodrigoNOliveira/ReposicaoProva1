@@ -1,0 +1,1 @@
+1- Classe é a responsavel por criar os objetos, informando as caracteristicas que o objeto terá. Atravez da classe é descrito as caracteristicas (atributos) e as funcionalidades(metodos) que o objeto tem
